@@ -12,7 +12,7 @@
 
 
 ### 🛠 Tecnologías destacadas - Intereses
-<img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=790b76119edac0b2a23b6e73dec569711082519deebf6f08&rid=giphy.gif&ct=s" alt="drawing" width="200" align="right"/>
+<img src="https://media3.giphy.com/media/DPQDcZP8fhZPaYMkYH/giphy_s.gif?cid=790b761142db1f85e1d04acfe25e18bfb79468ed3c8ca91c&rid=giphy_s.gif&ct=s" alt="drawing" width="200" align="right"/>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
